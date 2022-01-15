@@ -6,3 +6,5 @@ gg
 les gars 
 
 pour git diff1
+
+git diff2

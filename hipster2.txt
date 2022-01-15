@@ -1,1 +1,3 @@
 Du texte
+
+GIT DIFF1
