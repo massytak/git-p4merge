@@ -3,4 +3,6 @@ lorem ipsum
 adding more txt 
 gg
 
-les gars
+les gars 
+
+pour git diff1
