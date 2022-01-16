@@ -1,1 +1,5 @@
 Du texte
+
+GIT DIFF1
+
+git diff 2 not added
